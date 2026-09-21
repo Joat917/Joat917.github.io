@@ -9,6 +9,7 @@ const LINKS = [
   { name: 'SudoKu', url: '/Sudoku4/', icon: '', desc: 'Sudoku game' },
   { name: 'Bingo', url: '/Bingo4/', icon: '', desc: 'Bingo game' },
   { name: 'Digital Klotski', url: '/Klotski4/', icon: '', desc: 'Digital Klotski game' },
+  { name: 'Regicide', url: '/Regicide4/', icon: '', desc: 'Regicide game' },
   { name: 'Sokoban Solver', url: '/SokobanSolver/', icon: '', desc: 'Sokoban game solver' },
   { name: 'Snake', url: '/HTMGames/snake_path.htm', icon: '', desc: 'Snake game' },
   { name: 'DrawCircle', url: '/DrawCircle/', icon: '', desc: 'Draw a circle' },
